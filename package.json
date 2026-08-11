@@ -1,0 +1,14 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Web socket app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Shirshak",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
